@@ -64,7 +64,7 @@ Additional risks and limitations include:
 
 To reduce these risks, teacher reviews and ongoing model monitoring were recommended alongside automated predictions.
 ## Context and Credit
-Client: Data2Intel
+Client: Data2Intel (Simulated)
 
 Tools used: Python, Google Colab
 
